@@ -1,1 +1,1 @@
-“my second commit”
+I love alx community.
